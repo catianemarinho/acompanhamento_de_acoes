@@ -36,7 +36,7 @@ O repositório está organizado da seguinte maneira:
    pip install yfinance
 3. Vá para a pasta e execute o script de extração de dados, por exemplo:
     ```bash
-    piython script.py
+    python script.py
 4. Abra o arquivo power_bi_dashboard/dashboard.pbix usando o Power BI Desktop.
 5. No Power BI Desktop, atualize a fonte de dados para refletir os dados extraídos no passo 3.
 6. Explore o dashboard interativo criado no Power BI. Use filtros e gráficos para analisar o desempenho das ações ao longo do tempo.
